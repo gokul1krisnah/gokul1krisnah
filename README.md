@@ -2,34 +2,45 @@
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
 
-## 🚀 Flutter Developer
+## 🚀 Flutter Developer at Acadeno Research & Innovation Center
 
-📘 Deep diving into the world of Flutter — crafting beautiful UIs, building scalable apps, and continuously improving my development skills.
+I'm a Flutter Developer passionate about building scalable, high-performance cross-platform applications using Flutter and Dart.
 
-✅ Completed Dart fundamentals and now exploring advanced Flutter concepts to master cross-platform mobile development.
+Currently working at **Acadeno Research & Innovation Center**, developing real-world applications with modern architecture, efficient state management, and clean coding practices.
 
-💡 Strong focus on REST API integration, clean architecture, and efficient state management using Provider.
+💡 Focused on building maintainable applications, intuitive user interfaces, and reliable software solutions.
 
-📬 Got a project idea, collaboration request, or want to discuss Flutter development? Let’s connect:
+📬 **Let's Connect**
 
 📧 **[gokul.krishnahkv@gmail.com](mailto:gokul.krishnahkv@gmail.com)**
 
 ---
 
-## 🛠️ Technologies & Tools I Work With
+## 🛠️ Technologies & Tools
 
-### 📱 Mobile Development
+### 📱 Mobile & Cross-Platform Development
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge"/>
 </p>
 
-### 🔗 API & State Management
+### 🏗️ Architecture & State Management
 
 <p>
-  <img src="https://img.shields.io/badge/REST%20API-009688?logo=postman&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Provider-FF6F00?logo=flutter&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cubit-7B42BC?logo=flutter&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BLoC-5C2D91?logo=flutter&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Freezed-02569B?logo=dart&logoColor=white&style=for-the-badge"/>
+</p>
+
+### 🔥 Backend & Database
+
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hive-FFB300?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge"/>
 </p>
 
 ### 🌐 Web Technologies
@@ -44,6 +55,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge"/>
@@ -53,17 +65,23 @@
 
 ## 📈 Current Focus
 
-* Advanced Flutter UI & Animations
-* REST API Integration & JSON Handling
-* Provider State Management
-* Clean Architecture Implementation
-* Performance Optimization
+- Advanced Flutter Development & Animations
+- Scalable Architecture & Modular Codebases
+- BLoC / Cubit State Management
+- Firebase & Backend Integration
+- Offline-First Application Development
+- Flutter Web & Cross-Platform Solutions
+- Performance Optimization & Testing
+- AI-Assisted Development Workflows
 
 ---
 
 ## 🤝 Open for Opportunities
 
-I’m open to freelance projects, collaborations, and innovative app ideas.
-Let’s build scalable, high-performance applications together 🚀
+Open to freelance projects, collaborations, and opportunities to build innovative software products.
+
+Always learning, building, and exploring new technologies.
+
+**Let's turn ideas into real-world applications!** 🚀
 
 ---
