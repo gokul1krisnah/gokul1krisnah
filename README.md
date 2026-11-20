@@ -1,6 +1,12 @@
 # Hi 👋, I'm Gokul Krishna
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:00B4D8&height=220&section=header&text=Flutter%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Beautiful%20Cross-Platform%20Applications&descAlignY=60&descSize=16" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,androidstudio" />
+</p>
 
 ## 🚀 Flutter Developer at Acadeno Research & Innovation Center
 
@@ -76,6 +82,19 @@ Currently working at **Acadeno Research & Innovation Center**, developing real-w
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
 ## 🤝 Open for Opportunities
 
 Open to freelance projects, collaborations, and opportunities to build innovative software products.
@@ -84,4 +103,6 @@ Always learning, building, and exploring new technologies.
 
 **Let's turn ideas into real-world applications!** 🚀
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:00B4D8&height=100&section=footer" width="100%"/>
+</p>
